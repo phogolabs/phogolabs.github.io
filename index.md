@@ -13,4 +13,4 @@ frameworks and libraries.
 
 Having trouble with some of our projects? Check out our [contact
 form](https://phogolabs.com/contact-us/) or
-[tweeter](https://twitter.com/phogolabs) and we’ll help you sort it out.
+[twitter](https://twitter.com/phogolabs) and we’ll help you sort it out.
