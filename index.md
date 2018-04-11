@@ -1,4 +1,4 @@
-## Welcome to Phogo Labs Open Source Projects
+## Welcome to our Open Source Projects
 
 Phogo Labs is a software consultancy startup that provides software services.
 We believe that we can be successful if we share our passion for software.
